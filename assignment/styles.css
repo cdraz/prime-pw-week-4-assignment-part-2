@@ -1,4 +1,38 @@
+body {
+    margin: 0;
+    background-color: #fefbe9;
+    font-family: "Andale mono", monospace;
+}
 header {
-    background-color: #286DA8;
-    color: #CD5360;
+    margin: 0;
+    padding: 0 5%;
+    background-color: #183a1d;
+    color: #fefbe9;
+}
+
+.info {
+margin: 0 20% 10%;
+padding: 0 0;
+text-align: center;
+}
+
+.info h2 {
+    background-color: #2a5c41;
+    color: #f0a04b;
+    margin: 0;
+    padding: 0;
+}
+
+.info img {
+    max-width: 100%;
+    max-height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.info h3 {
+    background-color: #2a5c41;
+    color: #f0a04b;
+    margin: 0;
+    padding: 0;
 }
